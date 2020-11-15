@@ -1,0 +1,12 @@
+3197
+
+React GitHub Pages
+
+on package.json
+
+"predeploy": "yarn build",
+"deploy": "gh-pages -d build"
+
+on Terminal
+
+yarn run deploy
